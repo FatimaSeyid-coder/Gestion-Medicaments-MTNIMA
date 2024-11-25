@@ -50,5 +50,5 @@ Développé en utilisant :
 
 
 📬 Contact
-Pour toute question ou suggestion, veuillez me contacter via :
-    Email : fatimetouabdseyid@gmail.com
+Pour toute question, suggestion ou pour accéder aux détails du code source, veuillez me contacter via :
+    - **Email :** [fatimetouabdseyid@gmail.com](mailto:fatimetouabdseyid@gmail.com)
